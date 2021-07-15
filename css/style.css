@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Montserrat Alternates Italic';
+    src: url('Montserrat.ttf');
+}
+
+* {
+    font-family: "Montserrat Alternates Italic", sans-serif;
+}
+
+.fa , .fab {
+    color: rgba(43, 105, 204, 0.97);
+}
